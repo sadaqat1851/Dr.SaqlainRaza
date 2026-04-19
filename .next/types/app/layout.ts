@@ -1,4 +1,4 @@
-// File: /home/sadaqat/p/saqlain-portfolio/src/app/layout.tsx
+// File: E:\2026\march\dr_saqlain_portfolio\Dr.SaqlainRaza\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
